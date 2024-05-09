@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm HuaXuan Lin.</h1>
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm HuaXuan Lin.</h1>
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
@@ -62,7 +62,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Lin, Amy; HuaXuan Lin; Nice to meet you!"></a>
+</p>
+<br>
 
-<a target="_blank" align="center">
-  <img align="left" top="100" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<br>
+<h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
+<br>
+<div align="center">
+<a href="https://github.com/hooroobaby/">
+  <img src="https://github-readme-stats.vercel.app/api?username=hooroobaby&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" width="450">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hooroobaby&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" width="375" alt="hooroobaby">
 </a>
+</div>
+<br>
+<br>
+<br>
+<hr>
+<br>
+
+<hr>
+<br>
+<p>Credit: <a href="https://github.com/hooroobaby">huaxuan lin</a></p>
+<p>Last Edited on: 05/09/2024</p> 

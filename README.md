@@ -3,7 +3,8 @@
 </p>
   <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p><a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30" /></a>
+<br>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30" /></a>
 <a target="_blank" href="https://docs.amplify.aws/assets/logo-dark.svg" style="display: inline-block;"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="30" height="30" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30" /></a>
@@ -45,10 +46,10 @@
 <a target="_blank" href="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="30" height="30" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://dev.to/https://hooroobaby.github.io/" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/huaxuanlin" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /></a>
+<h2>⚡️ Where to find me</h2><br>
+<a target="_blank" href="https://hooroobaby.github.io/" style="display: inline-block;">my website</a>
+<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/huaxuanlin" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 
 <!--
 **hooroobaby/hooroobaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -70,8 +71,8 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
 <a href="https://github.com/hooroobaby/">
-  <img src="https://github-readme-stats.vercel.app/api?username=hooroobaby&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" width="450">
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hooroobaby&amp;theme=dark&amp;hide_border=false"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=hooroobaby&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" width="450" height="200">
+   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hooroobaby&amp;theme=dark&amp;hide_border=false" width="450" height="200"> 
 </a>
 </div>
 <br>

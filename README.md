@@ -66,8 +66,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Lin, Amy; HuaXuan Lin; Nice to meet you!"></a>
 </p>
 <br>
-
-<br>
 <h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
 <br>
 <div align="center">
@@ -77,12 +75,6 @@ Here are some ideas to get you started:
 </a>
 </div>
 <br>
-<br>
-<br>
 <hr>
-<br>
-
-<hr>
-<br>
 <p>Credit: <a href="https://github.com/hooroobaby">huaxuan lin</a></p>
 <p>Last Edited on: 05/09/2024</p> 

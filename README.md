@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://github.com/hooroobaby/">
   <img src="https://github-readme-stats.vercel.app/api?username=hooroobaby&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" width="450">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hooroobaby&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" width="375" alt="hooroobaby">
+   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hooroobaby&amp;theme=dark&amp;hide_border=false"> 
 </a>
 </div>
 <br>

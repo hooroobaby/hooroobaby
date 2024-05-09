@@ -47,14 +47,10 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /></a>
-<h2>⚡️ Where to find me</h2><br>
+<!-- <h2>⚡️ Where to find me</h2><br>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/huaxuanlin" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-
-<!--
 **hooroobaby/hooroobaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -67,14 +63,12 @@ Here are some ideas to get you started:
 
 <br>
 <h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
-<br>
 <div align="center">
 <a href="https://github.com/hooroobaby/">
   <img src="https://github-readme-stats.vercel.app/api?username=hooroobaby&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=7A7ADB&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130F40" width="400" height="250">
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hooroobaby&amp;theme=dark&amp;hide_border=false" width="360" height="250"> 
 </a>
 </div>
-<br>
 <hr>
 <p>Credit: <a href="https://hooroobaby.github.io/" >huaxuan lin</a></p>
 <p>Last Edited on: 05/09/2024</p> 
